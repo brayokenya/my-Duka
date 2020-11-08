@@ -1,1 +1,1 @@
-web:gunicorn shopifyduka.wsgi --log-file -
+web: gunicorn shopifyduka.wsgi --log-file -
